@@ -1,0 +1,4 @@
+/ascii_ve
+/asciiart/__pycache__
+*.pyc
+asciiart/tests/__pycache__
